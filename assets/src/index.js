@@ -1,6 +1,8 @@
 function showMenu () {
     nav.style.display = 'block'
     opacity.style.display = 'block'
+    navCLose.style.display = 'block'
+
 }
 let myNav = document.getElementById("nav")
 let navCLose = c=document.querySelector('.close')
